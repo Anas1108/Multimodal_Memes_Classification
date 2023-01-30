@@ -1,5 +1,8 @@
 # Multimodal Architecture for Meme Classification
 
+### Get the Dataset by clicking:
+ https://drive.google.com/file/d/1Kr5x8kyaVhFztCB6WM0eBVi0xDxhHSex/view?usp=sharing
+
 ## Introduction
 This project aims to build a multimodal architecture using PyTorch to classify memes as Positive & Very Positive(1), Neutral(0), or Negative & Very Negative(2) based on both image and caption. The architecture is based on a Multilayer Perceptron (MLP) network and will be trained and evaluated on a relevant meme classification dataset.
 
